@@ -5,6 +5,7 @@
 - **Target variable:** `Class` (3 classes: 0, 1, 2)  
 - **Features:**
   - Gender, Age, Urea, Cr, HbA1c, Chol, TG, HDL, LDL, VLDL, BMI  
+<img width="505" height="437" alt="features" src="https://github.com/user-attachments/assets/8b52481c-41cc-4e96-89cd-bb5ed59af22d" />
 
 This dataset represents clinical measurements and health indicators used to classify patients into different risk groups.
 
@@ -33,6 +34,9 @@ Random Forest was chosen for its robustness, ability to handle mixed feature typ
 | **Accuracy** |       |        | **1.00** | **53** |
 | **Macro avg** | 1.00 | 1.00   | 1.00     | 53      |
 | **Weighted avg** | 1.00 | 1.00 | 1.00   | 53      |
+
+### Confusion Matrix
+<img width="498" height="432" alt="confusion_matrix" src="https://github.com/user-attachments/assets/046d0c21-6d6f-4225-a38b-4663cd4f496f"/>
 
 ---
 
